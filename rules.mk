@@ -1,0 +1,3 @@
+HAPTIC_ENABLE = yes
+HAPTIC_DRIVER = solenoid
+COMBO_ENABLE = yes
